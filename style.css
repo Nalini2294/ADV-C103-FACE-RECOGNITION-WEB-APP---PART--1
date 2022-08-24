@@ -1,0 +1,14 @@
+body{
+    color: rgb(8, 70, 68);
+    background:lightpink;
+    text-align: center;
+}
+h3{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px rgb(255, 255, 255);
+    width: 350px;
+    height: 300px;
+}
